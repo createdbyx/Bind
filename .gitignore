@@ -7,3 +7,5 @@ xamarin-component
 
 *.xam
 *.userprefs
+src/UpgradeLog2.htm
+src/.vs/Bind/v14/.suo
